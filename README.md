@@ -1,5 +1,3 @@
-### README for Blog-Guardian-of-Galaxy Repository
-
 # Blog-Guardian-of-Galaxy
 
 Welcome to **Blog-Guardian-of-Galaxy**! 🚀 This repository is a stunning and responsive blog project created entirely with **HTML** and **CSS**. It’s designed to showcase blog content in an eye-catching and organized layout, perfect for sharing your thoughts with the universe!
